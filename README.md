@@ -135,6 +135,6 @@ Meet **Minecraft DDOS Tool V2**—your go-to Minecraft server stresser!
 - 🌐 **Minecraft Server Stresser**
 - 💥 **Minecraft Attack Tool**
 
----
+--
 
 **Disclaimer:** This tool is for **educational and ethical testing purposes only**. Use it legally and responsibly!
